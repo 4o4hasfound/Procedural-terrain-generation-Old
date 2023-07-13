@@ -1,2 +1,0 @@
-"# OpenGL-TerrainGeneration" 
-"# ProceduralTerrainGeneration-OpenGL" 
